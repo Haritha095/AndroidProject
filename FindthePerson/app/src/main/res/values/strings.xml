@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">FindthePerson</string>
-    <string name="instructions">Enter a book name and find the Author. </string>
-    <string name="button_text">Search </string>
-    <string name="input_hint">Book Title</string>
-</resources>
